@@ -1,0 +1,8 @@
+The "Periodic_Potential_Nearly_free_electrons" introduces electrons in periodic potentials through the derivation of Bloch’s theorem. It develops the response of Bloch electrons to an electric field, explains the origin of band gaps through matrix methods and perturbation theory, and introduces the Kronig–Penney model as a simple framework for understanding band structure formation.
+
+The "Density of states_band gap in 3D_Fermi Surfaces" extends the perturbative treatment of weak periodic potentials to three dimensions. It discusses energy levels near a single Bragg plane, leading naturally to the concepts of Brillouin zones.
+
+The "Cyclotron resonance and effective Masses" builds on the semiclassical dynamics of Bloch electrons in electric fields to introduce the concept of effective mass. It explains how cyclotron resonance experiments are used to probe effective masses at different points in reciprocal momentum space.
+
+The "Filled bands_concept of holes" uses semiclassical equations of motion to explain why completely filled bands do not contribute to electrical conduction. It then introduces the concept of holes as effective charge carriers arising from nearly filled bands.
+
