@@ -1,0 +1,4 @@
+The "Effective Mass Theory_Envelope Function" show why electrons bound to dopant atoms in semiconductors can be modeled approximately as hydrogen-like states.
+
+The "donor statistics" introduces the position of the Fermi level in intrinsic semiconductors and extends the discussion to doped semiconductors. Using concepts from statistical mechanics, including partition functions, it develops the statistics of donor states and carrier concentrations.
+
